@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritej-b-aa0128325/)
+
 # 🚗 EV Market in Europe (2015–2023) — Forecast 2030
 
 📊 **Data-driven portfolio project** — Analysis of the European EV market using Eurostat data, with a forecast to 2030.  
