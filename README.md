@@ -39,8 +39,13 @@ ev-europe-market/
 - **BEV** = moteur principal de croissance.  
 - **Forecast 2030**: BEV ~4–5M ventes annuelles en Europe (scénario base).  
 
-📊 Example figure:  
+### EV Adoption Trends (2015–2023)
+![EV Trends](dashboard/eu_trend_bev_phev.png)
 
+### Top 5 EV Markets in Europe (2023)
+![Top 5 EV Countries](dashboard/top5_countries_ev_2023.png)
+
+### Forecast to 2030 (BEV vs PHEV)
 ![Forecast BEV vs PHEV](dashboard/forecast_bev_phev.png)
 
 ---
